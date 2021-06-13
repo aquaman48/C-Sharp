@@ -1,0 +1,54 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.TicketProcessingForm.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.pdb
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.exe
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.pdb
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.exe
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.pdb
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.TicketProcessingForm.resources
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.Properties.Resources.resources
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.csproj.GenerateResource.Cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.TicketProcessingForm.resources
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.Properties.Resources.resources
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.csproj.GenerateResource.Cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.TicketProcessingForm.resources
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.Properties.Resources.resources
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\ASD215\Solution Files\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.exe.config
+\\Mac\Home\Documents\ASD215\Solution Files\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.exe
+\\Mac\Home\Documents\ASD215\Solution Files\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.pdb
+\\Mac\Home\Documents\ASD215\Solution Files\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.TicketProcessingForm.resources
+\\Mac\Home\Documents\ASD215\Solution Files\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.Properties.Resources.resources
+\\Mac\Home\Documents\ASD215\Solution Files\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.csproj.GenerateResource.cache
+\\Mac\Home\Documents\ASD215\Solution Files\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\ASD215\Solution Files\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.exe
+\\Mac\Home\Documents\ASD215\Solution Files\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.pdb
+\\Mac\Home\Documents\ASD215\Solution Files\Ch11_Solutions\Ch11_01\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.csproj.AssemblyReference.cache
+C:\Users\nswat\source\repos\C#\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.exe.config
+C:\Users\nswat\source\repos\C#\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.exe
+C:\Users\nswat\source\repos\C#\TicketProcessingApp\TicketProcessingApp\bin\Debug\TicketProcessingApp.pdb
+C:\Users\nswat\source\repos\C#\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.csproj.AssemblyReference.cache
+C:\Users\nswat\source\repos\C#\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.TicketProcessingForm.resources
+C:\Users\nswat\source\repos\C#\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.Properties.Resources.resources
+C:\Users\nswat\source\repos\C#\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.csproj.GenerateResource.cache
+C:\Users\nswat\source\repos\C#\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.csproj.CoreCompileInputs.cache
+C:\Users\nswat\source\repos\C#\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.exe
+C:\Users\nswat\source\repos\C#\TicketProcessingApp\TicketProcessingApp\obj\Debug\TicketProcessingApp.pdb
