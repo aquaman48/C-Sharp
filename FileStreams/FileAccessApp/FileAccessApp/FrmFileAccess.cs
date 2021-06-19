@@ -6,6 +6,7 @@
  * value.
  */
 using System;
+using System.Collections.Generic;
 using System.Windows.Forms;
 using System.IO;
 
@@ -14,7 +15,9 @@ namespace FileAccessApp
     public partial class FrmFileAccess : Form
     {
         private StreamReader inFile;
-        private int[] numbers;
+        //private int[] numbers;
+        private List<string> userName = new List<string>();
+        //private string x;
 
         public FrmFileAccess()
         {
@@ -24,7 +27,7 @@ namespace FileAccessApp
         private void FrmFileAccess_Load(object sender, EventArgs e)
         {
             string inValue;
-            numbers = new int[20];
+            //numbers = new int[10];
             int i = 0;
 
             if (File.Exists("numbers.txt"))
@@ -34,10 +37,11 @@ namespace FileAccessApp
                     inFile = new StreamReader("numbers.txt");
                     while ((inValue = inFile.ReadLine()) != null)
                     {
-                        numbers[i] += int.Parse(inValue);
+                        userName.Add(inValue);
+                        //numbers[i] += int.Parse(inValue);
                         i++;
                     }
-                    lblResult.Text = "Number of values in file: " + i;
+                    lblResult.Text = "Number of Users in file: " + i;
                 }
 
                 catch (System.IO.IOException exc)
@@ -67,31 +71,15 @@ namespace FileAccessApp
             }
         }
 
-        private void btnAverage_Click(object sender, EventArgs e)
+        private void btnDisplayUsers_Click(object sender, EventArgs e)
         {
-            double total = 0;
-            foreach (int val in numbers)
-                total += val;
-            lblResult.Text = "Average value: " + 
-                (total / numbers.Length).ToString("F2");
-        }
+            results.Visible = true;
+            foreach(string user in userName)
+            {
+                results.Text = results.Text + user + Environment.NewLine;
 
-        private void btnSmallest_Click(object sender, EventArgs e)
-        {
-            double smallest = numbers[0];
-            foreach (int val in numbers)
-                if (val < smallest)
-                    smallest = val;
-            lblResult.Text = "Smallest value: " + smallest;
-        }
-
-        private void btnLargest_Click(object sender, EventArgs e)
-        {
-            double largest = numbers[0];
-            foreach (int val in numbers)
-                if (val > largest)
-                    largest = val;
-            lblResult.Text = "Largest value: " + largest;
+            }
+            lblResult.Text = "";
         }
     }
 }
