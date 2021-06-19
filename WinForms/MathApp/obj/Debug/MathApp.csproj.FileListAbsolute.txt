@@ -1,0 +1,9 @@
+C:\Users\nswat\source\repos\C#\Week_4\MathApp\bin\Debug\MathApp.exe.config
+C:\Users\nswat\source\repos\C#\Week_4\MathApp\bin\Debug\MathApp.exe
+C:\Users\nswat\source\repos\C#\Week_4\MathApp\bin\Debug\MathApp.pdb
+C:\Users\nswat\source\repos\C#\Week_4\MathApp\obj\Debug\MathApp.AreaCalculator.resources
+C:\Users\nswat\source\repos\C#\Week_4\MathApp\obj\Debug\MathApp.Properties.Resources.resources
+C:\Users\nswat\source\repos\C#\Week_4\MathApp\obj\Debug\MathApp.csproj.GenerateResource.cache
+C:\Users\nswat\source\repos\C#\Week_4\MathApp\obj\Debug\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\nswat\source\repos\C#\Week_4\MathApp\obj\Debug\MathApp.exe
+C:\Users\nswat\source\repos\C#\Week_4\MathApp\obj\Debug\MathApp.pdb
