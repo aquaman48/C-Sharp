@@ -11,13 +11,15 @@ The files that I worked with here are from a class. The end product for each exe
 
 ## Scores
 
-![Scores](https://github.com/aquaman48/C-Sharp/blob/main/Screenshots/Debug_Questions/Scores/Score_Debug.PNG)
+
 
 
 
 
 
 ### Results
+
+![Scores](https://github.com/aquaman48/C-Sharp/blob/main/Screenshots/Debug_Questions/Scores/Score_Debug.PNG)
 
 ## TimeComp
 
