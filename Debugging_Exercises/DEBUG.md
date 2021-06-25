@@ -27,3 +27,9 @@ The files that I worked with here are from a class. The end product for each exe
 
 
 ### Results
+
+![TimeComp](https://github.com/aquaman48/C-Sharp/blob/main/Screenshots/Debug_Questions/TimeComp/TimeComp_Debug.PNG)
+
+## FileReader
+
+### Results
